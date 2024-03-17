@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathish</h1>
+<h1 align="center">Hi, I'm Prathish  👋</h1>
 <h3 align="center"> I'm a passionate developer with a fervent love for coding and problem-solving. Every project I undertake is an opportunity for me to learn, grow, and push the boundaries of my skills.</h3>
 
 - 🔭 I’m currently working on **Web Application**
